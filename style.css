@@ -1,7 +1,12 @@
-img {
-  width:  200px;
-}
-body {
-  text-align: center;
-  font-family: "Arail";
-}
+<!DOCTYPE  html>
+<html>
+    <head>
+      <link rel="stylesheet" href="styles.css" />
+    </head>
+    <body>
+    <img src="http://www.dogbreedslist.info/uploads/allimg/dog-pictures/West-Highland-White-Terrier-3.jpg">
+      <h1>Alice</h1>
+      <p>Hi, it's Alice!
+      <p>I love my Westie.</p>
+    </body>
+</html>
